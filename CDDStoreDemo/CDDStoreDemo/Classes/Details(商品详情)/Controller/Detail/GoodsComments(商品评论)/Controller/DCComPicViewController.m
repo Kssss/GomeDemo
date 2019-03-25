@@ -10,7 +10,7 @@
 #import "DCDetailPicCell.h"
 #import "UIView+Toast.h"
 #import <Photos/Photos.h>
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 
 @interface DCComPicViewController ()<UICollectionViewDelegate,UICollectionViewDataSource,UICollectionViewDelegateFlowLayout>
 

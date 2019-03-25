@@ -25,7 +25,7 @@
 #import "DCCenterBeaShopCell.h"
 #import "DCCenterBackCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

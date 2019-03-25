@@ -6,7 +6,7 @@
 //Copyright © 2017年 RocketsChen. All rights reserved.
 //
 
-#import <MJRefresh/MJRefresh.h>
+#import "MJRefresh.h"
 
 @interface DCHomeRefreshGifHeader : MJRefreshGifHeader
 

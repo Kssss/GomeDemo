@@ -19,7 +19,7 @@
 #import "DCFooterReusableView.h"
 #import "DCAttributeItemCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

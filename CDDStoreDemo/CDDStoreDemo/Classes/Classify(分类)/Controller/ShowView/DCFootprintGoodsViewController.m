@@ -16,7 +16,7 @@
 // Views
 #import "DCFootprintCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 #import "UIViewController+XWTransition.h"
 // Categories
 

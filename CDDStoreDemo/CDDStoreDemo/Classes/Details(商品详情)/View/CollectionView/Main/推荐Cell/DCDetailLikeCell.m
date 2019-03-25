@@ -15,7 +15,7 @@
 // Views
 #import "DCDetailLikeItemCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

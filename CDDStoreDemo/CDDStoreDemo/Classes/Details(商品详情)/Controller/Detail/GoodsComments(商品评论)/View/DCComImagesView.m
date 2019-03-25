@@ -17,7 +17,7 @@
 // Views
 #import "DCItemImageCell.h"
 // Vendors
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 // Categories
 
 // Others

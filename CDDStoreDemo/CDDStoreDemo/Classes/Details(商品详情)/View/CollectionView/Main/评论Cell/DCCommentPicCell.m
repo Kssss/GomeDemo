@@ -16,7 +16,7 @@
 
 // Vendors
 #import "SDPhotoBrowser.h"
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 // Categories
 
 // Others

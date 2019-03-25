@@ -22,7 +22,7 @@
 #import "DCBrandSortCell.h"
 #import "DCBrandsSortHeadView.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 #import "UIBarButtonItem+DCBarButtonItem.h"
 // Others

@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <CDDPagerController/DCPagerController.h>
+#import "DCPagerController.h"
 
 @interface DCGoodParticularsViewController : DCPagerController
 

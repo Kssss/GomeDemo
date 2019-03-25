@@ -6,7 +6,7 @@
 //Copyright © 2017年 RocketsChen. All rights reserved.
 //
 
-#import <CDDPagerController/DCPagerController.h>
+#import "DCPagerController.h"
 
 @interface DCMediaListViewController : DCPagerController
 

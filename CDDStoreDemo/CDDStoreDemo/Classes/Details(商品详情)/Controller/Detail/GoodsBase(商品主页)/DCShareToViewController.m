@@ -15,7 +15,7 @@
 // Views
 #import "DCShareItemCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 #import "UIViewController+XWTransition.h"
 // Others

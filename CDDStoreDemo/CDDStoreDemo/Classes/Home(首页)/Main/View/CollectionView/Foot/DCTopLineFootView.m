@@ -17,7 +17,7 @@
 // Vendors
 
 // Categories
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 // Others
 
 @interface DCTopLineFootView ()<UIScrollViewDelegate,CDDRollingDelegate>

@@ -8,7 +8,7 @@
 
 #import "DCScrollAdFootView.h"
 
-#import <SDCycleScrollView.h>
+#import "SDCycleScrollView.h"
 
 @interface DCScrollAdFootView ()<SDCycleScrollViewDelegate>
 

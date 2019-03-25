@@ -8,7 +8,7 @@
 
 #import "DCStoresRecommendCell.h"
 #import "DCBeautyShopItem.h"
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 
 @interface DCStoresRecommendCell()
 @property (weak, nonatomic) IBOutlet UIImageView *shopImageView;

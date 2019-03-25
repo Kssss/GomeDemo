@@ -19,7 +19,7 @@
 #import "DCRecommendCell.h"
 #import "DCRecommendReusableView.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 #import "UINavigationController+FDFullscreenPopGesture.h"
 // Categories
 

@@ -15,7 +15,7 @@
 // Views
 
 // Vendors
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 // Categories
 
 // Others

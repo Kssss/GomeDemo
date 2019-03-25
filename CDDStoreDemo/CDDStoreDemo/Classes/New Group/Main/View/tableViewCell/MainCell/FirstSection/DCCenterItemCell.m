@@ -17,7 +17,7 @@
 #import "DCStateItemCell.h"
 #import "DCStateItemFooterView.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

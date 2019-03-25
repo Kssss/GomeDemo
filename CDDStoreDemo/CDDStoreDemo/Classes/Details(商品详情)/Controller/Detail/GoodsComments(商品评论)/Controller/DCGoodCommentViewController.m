@@ -16,7 +16,7 @@
 #import "DCComHeadView.h"
 #import "DCCommentsCntCell.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

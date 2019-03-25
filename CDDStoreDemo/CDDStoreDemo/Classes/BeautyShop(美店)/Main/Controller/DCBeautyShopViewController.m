@@ -24,7 +24,7 @@
 
 #import "DCStoresRecommendHeaderView.h"
 // Vendors
-#import <MJExtension.h>
+#import "MJExtension.h"
 // Categories
 
 // Others

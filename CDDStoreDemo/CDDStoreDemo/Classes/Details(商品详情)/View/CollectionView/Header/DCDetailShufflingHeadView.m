@@ -15,7 +15,7 @@
 // Views
 
 // Vendors
-#import <SDCycleScrollView.h>
+#import "SDCycleScrollView.h"
 // Categories
 
 // Others
